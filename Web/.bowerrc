@@ -1,0 +1,5 @@
+{
+  "proxy":"http://tempmarae@seproxy.hm.com:8080",
+  "https-proxy":"http://tempmarae@seproxy.hm.com:8080",
+  "strict-ssl": false
+}

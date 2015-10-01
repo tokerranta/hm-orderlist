@@ -1,0 +1,23 @@
+{
+  "name": "web",
+  "version": "0.0.1",
+  "homepage": "https://github.com/tokerranta/hm-orderlist",
+  "authors": [
+    "tempmarae <markus.rantanikunen@hm.com>"
+  ],
+  "description": "test",
+  "main": "",
+  "moduleType": [],
+  "license": "MIT",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "angular": "~1.4.7"
+  }
+}
