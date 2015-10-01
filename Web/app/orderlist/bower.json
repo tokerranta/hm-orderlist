@@ -1,0 +1,19 @@
+{
+  "name": "hm-ot-orderlist",
+  "version": "0.0.2",
+  "homepage": "https://github.com/tokerranta/hm-orderlist",
+  "authors": [
+    "tempmarae <markus.rantanikunen@hm.com>"
+  ],
+  "description": "",
+  "main": "orderlist.module.ts",
+  "moduleType": [],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
